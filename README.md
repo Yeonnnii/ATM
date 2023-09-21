@@ -21,6 +21,9 @@
 
 ![image](https://github.com/Yeonnnii/ATM/assets/141755349/b39e8bc0-cca3-4fb4-a028-894f45286df8)
 
+
+
+
 1. 입금 출금 버튼 구현
    > 버튼 누름시, 금액 입력과 새버튼 등장
    > ![image](https://github.com/Yeonnnii/ATM/assets/141755349/dd5d4a1d-04a0-40b5-989d-70655f9c6d67)
@@ -28,10 +31,21 @@
    > | :---: | :---: |
    > 
 
+
+
+
 2. 금액 버튼 누르면, InputField(숫자)에 입력
    > 실행시, 금액 변경 (원화 표시)
    > ![image](https://github.com/Yeonnnii/ATM/assets/141755349/7cd55117-590b-4895-be60-966d23928ef4)
+   
+
+
+   
 3. 애니메이션 구현 (보류)
+
+
+
+
 4. 회원가입 및 로그인 창 (보류)
     
 ---
