@@ -29,7 +29,7 @@
    > ![image](https://github.com/Yeonnnii/ATM/assets/141755349/dd5d4a1d-04a0-40b5-989d-70655f9c6d67)
    > | Script | 기능 |
    > | :---: | :---: |
-   > 
+   > |https://github.com/Yeonnnii/ATM/blob/a692e7a9e163eb1ff98242fa26c0932a495475c1/ATM%20PJ/Assets/Scripts/BTNTypes.cs#L16|
 
 
 
