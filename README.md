@@ -49,7 +49,7 @@
    > ![image](https://github.com/Yeonnnii/ATM/assets/141755349/25196640-4d34-4324-82b1-69f1353e4a7a)
    > | Script | 기능 |
    > | :---: | :---: |
-   > ||출금
+   > |https://github.com/Yeonnnii/ATM/blob/ba0ecf675cf672054f160aaa74d35cc76dfbc93d/ATM%20PJ/Assets/Scripts/InOut.cs#L40-L57|출금
 
 
 - 잔액 부족
