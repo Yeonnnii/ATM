@@ -56,7 +56,7 @@
    > ![image](https://github.com/Yeonnnii/ATM/assets/141755349/b68df357-6e59-4a63-a68b-4c35c1df8034)
    > | Script | 기능 |
    > | :---: | :---: |
-   > ||잔액 부족시 팝업 창
+   > |https://github.com/Yeonnnii/ATM/blob/3f9a295b9c5232f047b8db6844a0696c7f2d21e6/ATM%20PJ/Assets/Scripts/InOut.cs#L31-L36|잔액 부족시 팝업 창
 
 #### 선택 요구 사항
 
