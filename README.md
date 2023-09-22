@@ -41,7 +41,7 @@
    > ![image](https://github.com/Yeonnnii/ATM/assets/141755349/7cd55117-590b-4895-be60-966d23928ef4)
    > | Script | 기능 |
    > | :---: | :---: |
-   > ||입금
+   > |https://github.com/Yeonnnii/ATM/blob/89a0aeadc9c042bce6304cbaa1bcdf6d834fc51c/ATM%20PJ/Assets/Scripts/InOut.cs#L22-L39|입금
 
 
 3. 출금 기능
